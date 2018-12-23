@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="general_error">An error occured, please try again later.</string>
+</resources>
